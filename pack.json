@@ -1,0 +1,53 @@
+{
+    "disambiguator": "3F6F-AE0E-12C0",
+    "name": "hopeless",
+    "author": "HexagonalSyndrome",
+    "version": 1,
+    "priority": -99999.00,
+
+    "dependencies":
+    [
+        {
+            "disambiguator": "ohvrvanilla",
+            "name": "base",
+            "author": "vittorio romeo",
+            "min_version": 1
+        },
+        {
+            "disambiguator": "library_march31osbasescripts",
+            "name": "march31os_scr_base",
+            "author": "march31onne",
+            "min_version": 1
+        },
+        {
+            "disambiguator": "library_march31osextbase",
+            "name": "march31os_ext_base",
+            "author": "march31onne",
+            "min_version": 1
+        },
+        {
+            "disambiguator": "library_polywall",
+            "name": "polywall",
+            "author": "syyrion",
+            "min_version": 2201
+        },
+        {
+            "disambiguator": "library_slider",
+            "name": "slider",
+            "author": "syyrion",
+            "min_version": 2006
+        },
+        {
+            "disambiguator": "library_extbase",
+            "name": "extbase",
+            "author": "syyrion",
+            "min_version": 1103
+        },
+        {
+            "disambiguator": "library_patternizer",
+            "name": "patternizer",
+            "author": "syyrion",
+            "min_version": 2017
+        }
+    ]
+}

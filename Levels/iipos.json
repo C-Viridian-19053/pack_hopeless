@@ -1,0 +1,12 @@
+{
+    "id": "iipos",
+    "name": "if isn't part of sides",
+    "description": "[ completable, course clears at 136 seconds ]\nand i know i've made a mistake...\n\n\n<<based on horogon>>",
+    "author": "_march31onne + distance",
+    "menuPriority": 10,
+    "selectable": true,
+    "styleId": "iipos_menu",
+    "musicId": "[iipos] nurko - if it isn't you",
+    "luaFile": "Scripts/levels/iipos/main.lua",
+    "difficultyMults": [1.00001, 1.00002]
+}
