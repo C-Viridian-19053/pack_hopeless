@@ -1,5 +1,5 @@
 # pack_hopeless
-a emotional completable level in open hexagon, featuring:
+a emotional completable level-pack in open hexagon, featuring:
 - Paris Looky
 - Lost Sky
 - NURKO
